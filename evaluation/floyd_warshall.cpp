@@ -75,4 +75,4 @@ std :: vector <std :: vector <std :: pair <double, std :: vector <sommet>>>> rep
 }
 
 
-//problème au niveau de la jonction : les 2 piles se superposent avec un sommet en commun mais c'est pas très grave (on utilise quand même n^3 * places de trop mais bon)
+//problème au niveau de la jonction : les 2 piles se superposent avec un sommet en commun mais c'est pas très grave
